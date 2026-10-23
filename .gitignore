@@ -1,0 +1,5 @@
+# Publish only the website files. Everything else in this folder stays private.
+*
+!.gitignore
+!index.html
+!og-image.png
