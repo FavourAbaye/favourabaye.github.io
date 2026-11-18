@@ -3,3 +3,10 @@
 !.gitignore
 !index.html
 !og-image.png
+!images/
+!images/**
+!videos/
+!videos/**
+
+# Old versions and leftovers are kept here and never published
+backups/
